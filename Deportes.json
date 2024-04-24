@@ -1,0 +1,20 @@
+{
+  "deportes": [
+    {
+      "nombre": "Basquetbol",
+      "precio": "15000"
+    },
+    {
+      "nombre": "Atletismo",
+      "precio": "20000"
+    },
+    {
+      "nombre": "Karate",
+      "precio": "20000"
+    },
+    {
+      "nombre": "Natacion",
+      "precio": "25000"
+    }
+  ]
+}
